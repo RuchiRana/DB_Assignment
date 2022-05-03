@@ -1,0 +1,1 @@
+SELECT SUM(Quantity) as Total_Quantity, AVG(Quantity) as Avg_Quantity FROM order_details;
